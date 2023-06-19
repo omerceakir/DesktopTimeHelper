@@ -1,0 +1,10 @@
+C:\Users\cakir\source\repos\DesktopTimeHelper\DesktopTimeHelper\obj\Debug\DesktopTimeHelper.csprojAssemblyReference.cache
+C:\Users\cakir\source\repos\DesktopTimeHelper\DesktopTimeHelper\obj\Debug\DesktopTimeHelper.homePage.resources
+C:\Users\cakir\source\repos\DesktopTimeHelper\DesktopTimeHelper\obj\Debug\DesktopTimeHelper.Properties.Resources.resources
+C:\Users\cakir\source\repos\DesktopTimeHelper\DesktopTimeHelper\obj\Debug\DesktopTimeHelper.csproj.GenerateResource.cache
+C:\Users\cakir\source\repos\DesktopTimeHelper\DesktopTimeHelper\obj\Debug\DesktopTimeHelper.csproj.CoreCompileInputs.cache
+C:\Users\cakir\source\repos\DesktopTimeHelper\DesktopTimeHelper\bin\Debug\DesktopTimeHelper.exe.config
+C:\Users\cakir\source\repos\DesktopTimeHelper\DesktopTimeHelper\bin\Debug\DesktopTimeHelper.exe
+C:\Users\cakir\source\repos\DesktopTimeHelper\DesktopTimeHelper\bin\Debug\DesktopTimeHelper.pdb
+C:\Users\cakir\source\repos\DesktopTimeHelper\DesktopTimeHelper\obj\Debug\DesktopTimeHelper.exe
+C:\Users\cakir\source\repos\DesktopTimeHelper\DesktopTimeHelper\obj\Debug\DesktopTimeHelper.pdb
